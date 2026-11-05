@@ -71,7 +71,7 @@ For deposits (L1 → L2), once your transaction is confirmed as Safe on Hoodi (8
 3. Click **Initiate Withdrawal** and wait a few minutes for confirmation.
 4. Switch your wallet network to Hoodi and prove the withdrawal.
 
-## Batch Submission: Wait for the batch submission to complete.
+## Batch Submission: Wait for the batch submission to complete. XSSS
 
 ## Verification Challenge Period:
 
